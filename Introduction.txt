@@ -2,3 +2,4 @@ HI,
 
 This project compares crime rate and types in the city of New York and San Francisco. Since, being more cautious in some neighbourhood 
 is better. This is a general problem faced by many, also from this project we can decide the level of security for our establishment.
+For neighbourhood I'll be using Geocode.
