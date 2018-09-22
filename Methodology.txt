@@ -1,0 +1,8 @@
+Hi,
+
+In this project, Two data sets are used.
+Steps Involved:
+1. importing libraries like pandas,Folium(for maps), Matplotlib(for visualisation)
+2. reading the files, Dealing with missing values in the dataset
+3. Creating Visualisation of crimes in both cities(Bar-Graph) - New york, San francisco
+4. Creating maps using Folium library and marking points with offenses
